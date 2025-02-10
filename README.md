@@ -1,7 +1,7 @@
 # ponderada1_M9_S2_programacao
 
 ## Business Driver Map
-```
+```mermaind
 graph TD;
   A[Objetivo: Distribuição eficiente de pedidos e redução de pedidos no limbo] -->|Benefício| B[Maximização do tempo e ganhos dos entregadores]
   A -->|Métrica| C[95% dos pedidos atribuídos em menos de 2 minutos]
