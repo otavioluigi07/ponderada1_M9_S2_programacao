@@ -1,6 +1,7 @@
 # ponderada1_M9_S2_programacao
 
 ## Business Driver Map
+```
 graph TD;
   A[Objetivo: Distribuição eficiente de pedidos e redução de pedidos no limbo] -->|Benefício| B[Maximização do tempo e ganhos dos entregadores]
   A -->|Métrica| C[95% dos pedidos atribuídos em menos de 2 minutos]
@@ -16,7 +17,7 @@ graph TD;
     I[Novo pedido criado] --> J[Tentativa de atribuição]
     J --> K[Taxa de pedidos não atribuídos < 1.2%]
   end
-
+```
 ## 📌 Business Driver Map - Eficiência e Redução de Pedidos Não Atribuídos
 
 ### 📖 Descrição da Atividade  
