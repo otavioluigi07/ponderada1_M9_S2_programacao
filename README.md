@@ -37,3 +37,9 @@ A atividade consiste na modelagem dos drivers de negócio utilizando **Mermaid.j
    - Monitoramento com **alertas automáticos** quando a taxa ultrapassa **1%**.  
 
 O **Mermaid.js** foi utilizado para criar um **Business Driver Map**, tornando a visualização das dependências e métricas mais clara e objetiva.  
+
+### Como rodar o Teste Behave?
+- Crie uma venv(ambiente virtual) no seu repositório
+- pip install behave
+- Mantenha na pasta raiz do projeto
+- Abra o terminal: behave
